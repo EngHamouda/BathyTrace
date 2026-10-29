@@ -1,0 +1,22 @@
+BathyTrace
+Copyright (C) 2026 Mohamed Hamouda
+SPDX-License-Identifier: GPL-3.0-or-later
+
+This file is part of BathyTrace.
+
+BathyTrace is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+BathyTrace is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with BathyTrace. If not, see <https://www.gnu.org/licenses/>.
+
+This licence covers the BathyTrace source, documentation and original icon.
+Third-party dependencies (QGIS, Qt, NumPy and Pillow) retain their own licences
+and are not bundled. Input charts retain their own ownership and terms.

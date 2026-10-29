@@ -1,0 +1,20 @@
+[general]
+name=BathyTrace
+description=Professional Bathymetric Contour Digitization from Charts & Imagery
+about=BathyTrace provides native QGIS tools for GeoTIFF contour extraction, assisted and manual tracing, gap joining, contour selection and estimated depth sequences. Exports GeoPackage, GeoJSON, 3D Shapefile and 3D DXF. Copyright (C) 2026 Mohamed Hamouda. Requires NumPy and Pillow in QGIS Python; no automatic dependency installation. Supports unrotated GeoTIFF charts in EPSG:3857 or EPSG:4326 only. QGIS 3.40+ in the 3.x series; QGIS 4/Qt6 is not supported. Tested locally on Windows; other platforms remain unverified. Extracted contours and estimated depths require manual review. Working layers are temporary until exported. Licensed under GPL-3.0-or-later; provided without warranty. See LICENSE and NOTICE.
+version=0.1.0
+qgisMinimumVersion=3.40
+qgisMaximumVersion=3.99
+license=GPL-3.0-or-later
+author=Mohamed Hamouda
+email=Mohamedhamoudaa186@gmail.com
+homepage=
+repository=
+tracker=
+category=Raster
+tags=bathymetry,contours,digitization,charts,geotiff,cad
+icon=icon.svg
+experimental=False
+deprecated=False
+hasProcessingProvider=False
+changelog=0.1.0: First BathyTrace release prepared for publication, including chart contour extraction, assisted/manual tracing, gap joining, depth sequence previews and GIS/CAD export. Copyright (C) 2026 Mohamed Hamouda.
